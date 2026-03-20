@@ -1,3 +1,5 @@
 project_id,project_title,campus,building,project_type,contractor,abc,contract_amount,start_date,target_completion,status,assigned_engineer,remarks
-ESEP-001,Repair / Renovation of ESEP Building,TUP Manila,ESEP Building,Renovation,Sample Contractor Inc.,10000000,9800000,2026-04-01,2026-09-28,Ongoing,Engr. J.P. Bersamina,Sample seed data
-CLARK-002,TUP Clark Site Development,TUP Clark,Open Grounds,Upgrade,North Build Co.,20000000,19500000,2026-05-01,2026-11-15,Planned,IMDO Team,Sample seed data
+ESEP-001,Repair / Renovation of ESEP Building,TUP Manila,ESEP Building,Renovation,Sample Contractor Inc.,10000000,9800000,01/04/2026,28/09/2026,Ongoing,Engr. J.P. Bersamina,Sample seed data
+CLARK-002,TUP Clark Site Development,TUP Clark,Open Grounds,Upgrade,North Build Co.,20000000,19500000,01/05/2026,15/11/2026,Planned,IMDO Team,Sample seed data
+IRTC CR 1,cr phase 1,TUP Manila,irtc,Renovation,protech,6M,6,01/05/2026,15/11/2026,Ongoing,IMDO Team,Sample seed data
+IMCED,imced,TUP Manila,irtc,Renovation,protech,5M,5,01/05/2026,15/11/2026,Ongoing,IMDO Team,Sample seed data
