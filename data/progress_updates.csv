@@ -1,0 +1,3 @@
+update_id,project_id,update_date,planned_progress,actual_progress,slippage,activity_done,issue_observed,action_needed,next_activity,inspector,weather,remarks,photo_filename
+ESEP-001_20260408100000,ESEP-001,2026-04-08,10,8,2,Mobilization and demolition started.,Minor delay in material delivery.,Follow up supplier and revise sequence.,Continue demolition and start masonry prep.,Engr. Sample,Sunny,Initial progress entry,
+ESEP-001_20260415100000,ESEP-001,2026-04-15,18,16,2,"Demolition progressed, ceiling removal ongoing.",No major issue.,Monitor safety barricades.,Start repairs on affected areas.,Engr. Sample,Cloudy,Weekly progress entry,
